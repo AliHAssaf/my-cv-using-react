@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/AliHAssaf/my-cv-using-react.git/static/css/main.3bbc12f6.css",
+    "main.js": "/AliHAssaf/my-cv-using-react.git/static/js/main.7e199d90.js",
+    "static/media/myImg.jpg": "/AliHAssaf/my-cv-using-react.git/static/media/myImg.80b19bc8529406c07309.jpg",
+    "index.html": "/AliHAssaf/my-cv-using-react.git/index.html",
+    "main.3bbc12f6.css.map": "/AliHAssaf/my-cv-using-react.git/static/css/main.3bbc12f6.css.map",
+    "main.7e199d90.js.map": "/AliHAssaf/my-cv-using-react.git/static/js/main.7e199d90.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bbc12f6.css",
+    "static/js/main.7e199d90.js"
+  ]
+}
