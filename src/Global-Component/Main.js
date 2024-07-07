@@ -39,7 +39,7 @@ function Main(){
                         content="HTML,CSS,Bootstrap,JavaScript,ES6,jQuery,React"
                         description="It is a file that include all courses that I have been learned about web languages"
                         typeLink="File link:"
-                        link="https://mega.nz/file/wv0TRSZb#3IsywGFazsGe7eP15qaL9i2fqz3aj6lZVsIkDorGHYk"
+                        link="https://mega.nz/file/h6NDya4L#fhMMZkTSExZMKDjM940qLJJCD3oNAfiLlGKc_T0zsCk"
                     />
                     <Online
                         title="Graphic"
